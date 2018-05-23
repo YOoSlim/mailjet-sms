@@ -9,7 +9,7 @@
             "email": "slimani.youcef.09@gmail.com"
         }
     ],
-    "minimum-stability": "prod",
+    "minimum-stability": "dev-master",
     "support": {
         "email": "slimani.youcef.09@gmail.com"
     },
